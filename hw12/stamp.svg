@@ -63,6 +63,50 @@
   <text x="60.066" y="63.566" style="font-size:3pt;">大</text>
 
 
+  <rect x="29.666" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.066" y="53.9" style="font-size:3pt;" fill="green">臺</text>
+
+  <rect x="29.666" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.066" y="58.733" style="font-size:3pt;" fill="green">北</text>
+
+  <rect x="29.666" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.066" y="63.566" style="font-size:3pt;" fill="green">科</text>
+
+  <rect x="29.666" y="64.499" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.066" y="68.399" style="font-size:3pt;" fill="green">技</text>
+
+  <rect x="29.666" y="69.332" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.066" y="73.232" style="font-size:3pt;" fill="green">大</text>
+
+  <rect x="29.666" y="74.165" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="30.066" y="78.065" style="font-size:3pt;" fill="green">學</text>
+
+  <rect x="24.833" y="50" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="53.9" style="font-size:3pt;" fill="blue">電</text>
+
+  <rect x="24.833" y="54.8330" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="58.733" style="font-size:3pt;" fill="blue">資</text>
+
+  <rect x="24.833" y="59.666" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="63.566" style="font-size:3pt;" fill="blue">班</text>
+
+  <rect x="24.833" y="64.499" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="68.399" style="font-size:3pt;" fill="blue">資</text>
+
+  <rect x="24.833" y="69.332" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="73.232" style="font-size:3pt;" fill="blue">工</text>
+
+  <rect x="24.833" y="74.165" width="4.8330" height="4.8330" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="25.233" y="78.065" style="font-size:3pt;" fill="blue">系</text>
+
+  <rect x="15.167" y="50" width="9.6660" height="9.6660" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.567" y="57.866" style="font-size:6pt;">蔡</text>
+
+  <rect x="15.167" y="59.666" width="9.6660" height="9.6660" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.567" y="67.532" style="font-size:6pt;">翔</text>
+
+  <rect x="15.167" y="69.332" width="9.6660" height="9.6660" stroke="blue" stroke-width="0.1" fill="none"/>
+  <text x="15.567" y="77.198" style="font-size:6pt;">宇</text>
 
 
   <text x="30" y="30" style="font-size:2.5pt;">初號 42pt</text>
